@@ -11,6 +11,7 @@
     height: 100%;
     background-color: #d3d3d3;
      box-shadow: 0px 0px 8px gray;
+     overflow:hidden;
 }
 .container{
     width: 100%;
